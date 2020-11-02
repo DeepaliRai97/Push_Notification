@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927443147642",
+    "firebase_url": "https://notif-ec70c.firebaseio.com",
+    "project_id": "notif-ec70c",
+    "storage_bucket": "notif-ec70c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927443147642:android:b7d19bf69700054e7a94c3",
+        "android_client_info": {
+          "package_name": "code.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927443147642-g970eo22gv6595unkna0a729tiao3ath.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "code.push_notification",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "927443147642-c8q9lpdhru6k6f9qeu5neo0vo30n6qe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXq015-YLVaHdz0TLLe5Me3-KTucOQ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927443147642-c8q9lpdhru6k6f9qeu5neo0vo30n6qe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
